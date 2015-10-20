@@ -1,0 +1,767 @@
+----------------------------------------------------------------
+Fri May 04 21:34:44 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:34:46 EDT 2012:
+Shutting down instance a816c00e-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:35:05 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 08264012-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:35:06 EDT 2012:
+Shutting down instance 08264012-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:35:07 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 6839c016-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:35:08 EDT 2012:
+Shutting down instance 6839c016-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:36:24 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance c851401a-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:36:24 EDT 2012:
+Shutting down instance c851401a-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:36:37 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 286cc01e-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:36:37 EDT 2012:
+Shutting down instance 286cc01e-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:36:37 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 888c4022-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:36:37 EDT 2012:
+Shutting down instance 888c4022-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:37:48 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance e8afc026-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:37:48 EDT 2012:
+Shutting down instance e8afc026-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:37:59 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 48d7402a-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:37:59 EDT 2012:
+Shutting down instance 48d7402a-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:37:59 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a902c02e-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:38:00 EDT 2012:
+Shutting down instance a902c02e-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:38:35 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 09324032-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:38:35 EDT 2012:
+Shutting down instance 09324032-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:38:47 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 6965c036-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:38:47 EDT 2012:
+Shutting down instance 6965c036-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:38:47 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance c99d403a-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:38:47 EDT 2012:
+Shutting down instance c99d403a-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:39:20 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 29d8c03e-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:39:20 EDT 2012:
+Shutting down instance 29d8c03e-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:39:32 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 8a184042-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:39:32 EDT 2012:
+Shutting down instance 8a184042-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:39:32 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance ea5bc046-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:39:32 EDT 2012:
+Shutting down instance ea5bc046-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:40:21 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 4aa3404a-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:40:21 EDT 2012:
+Shutting down instance 4aa3404a-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:40:33 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance aaeec04e-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:40:34 EDT 2012:
+Shutting down instance aaeec04e-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:40:34 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 0b3e4052-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:40:34 EDT 2012:
+Shutting down instance 0b3e4052-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:41:23 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 6b91c056-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:41:23 EDT 2012:
+Shutting down instance 6b91c056-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:41:37 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance cbe9405a-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:41:37 EDT 2012:
+Shutting down instance cbe9405a-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:41:37 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 2c44c05e-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:41:37 EDT 2012:
+Shutting down instance 2c44c05e-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:42:23 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 8ca44062-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:42:23 EDT 2012:
+Shutting down instance 8ca44062-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:42:55 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance ed07c066-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:42:55 EDT 2012:
+Shutting down instance ed07c066-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:43:08 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 4d6f406a-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:43:08 EDT 2012:
+Shutting down instance 4d6f406a-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:43:08 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance addac06e-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:43:08 EDT 2012:
+Shutting down instance addac06e-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:43:45 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 0e4a4072-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:43:46 EDT 2012:
+Shutting down instance 0e4a4072-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:44:01 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 6ebdc076-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:44:01 EDT 2012:
+Shutting down instance 6ebdc076-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:44:01 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance cf35407a-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:44:01 EDT 2012:
+Shutting down instance cf35407a-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:44:22 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 2fb0c07e-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:44:22 EDT 2012:
+Shutting down instance 2fb0c07e-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:44:37 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 90304082-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:44:37 EDT 2012:
+Shutting down instance 90304082-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:44:37 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance f0b3c086-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:44:38 EDT 2012:
+Shutting down instance f0b3c086-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:45:01 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 513b408a-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:45:01 EDT 2012:
+Shutting down instance 513b408a-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:45:14 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance b1c6c08e-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:45:14 EDT 2012:
+Shutting down instance b1c6c08e-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:45:14 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 12564092-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:45:14 EDT 2012:
+Shutting down instance 12564092-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:45:46 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 72e9c096-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:45:46 EDT 2012:
+Shutting down instance 72e9c096-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:45:58 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance d381409a-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:45:58 EDT 2012:
+Shutting down instance d381409a-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:45:58 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 341cc09e-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:45:58 EDT 2012:
+Shutting down instance 341cc09e-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:46:18 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 94bc40a2-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:46:18 EDT 2012:
+Shutting down instance 94bc40a2-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:46:31 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance f55fc0a6-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:46:31 EDT 2012:
+Shutting down instance f55fc0a6-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:46:31 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 560740aa-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:46:31 EDT 2012:
+Shutting down instance 560740aa-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:47:22 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance b6b2c0ae-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:47:22 EDT 2012:
+Shutting down instance b6b2c0ae-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:47:36 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 176240b2-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:47:37 EDT 2012:
+Shutting down instance 176240b2-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:47:37 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 7815c0b6-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:47:37 EDT 2012:
+Shutting down instance 7815c0b6-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:48:14 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance d8cd40ba-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:48:14 EDT 2012:
+Shutting down instance d8cd40ba-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:48:55 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 3988c0be-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:48:55 EDT 2012:
+Shutting down instance 3988c0be-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:49:09 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 9a4840c2-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:49:09 EDT 2012:
+Shutting down instance 9a4840c2-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:49:09 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance fb0bc0c6-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:49:09 EDT 2012:
+Shutting down instance fb0bc0c6-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:50:14 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 5bd340ca-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:50:14 EDT 2012:
+Shutting down instance 5bd340ca-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:50:27 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance bc9ec0ce-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:50:27 EDT 2012:
+Shutting down instance bc9ec0ce-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:50:27 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 1d6e40d2-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:50:27 EDT 2012:
+Shutting down instance 1d6e40d2-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:50:57 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 7e41c0d6-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:50:57 EDT 2012:
+Shutting down instance 7e41c0d6-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:51:12 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance df1940da-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:51:12 EDT 2012:
+Shutting down instance df1940da-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:51:12 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 3ff4c0de-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:51:12 EDT 2012:
+Shutting down instance 3ff4c0de-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:51:50 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a0d440e2-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:51:50 EDT 2012:
+Shutting down instance a0d440e2-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:52:05 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 01b7c0e6-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:52:05 EDT 2012:
+Shutting down instance 01b7c0e6-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:52:05 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 629f40ea-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:52:05 EDT 2012:
+Shutting down instance 629f40ea-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:53:40 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance c38ac0ee-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:53:40 EDT 2012:
+Shutting down instance c38ac0ee-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:53:54 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 247a40f2-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:53:54 EDT 2012:
+Shutting down instance 247a40f2-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+----------------------------------------------------------------
+Fri May 04 21:53:54 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 856dc0f6-0137-1aa2-791e-000004783010 
+on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest  with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
+Loaded from file:/hemanth/DS/Project-3%20NaradaBrokering/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/hemanth/Documents/workspace/RoadSignDetector
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 04 21:53:54 EDT 2012:
+Shutting down instance 856dc0f6-0137-1aa2-791e-000004783010 on database directory /Users/hemanth/Documents/workspace/RoadSignDetector/MyDbTest with class loader sun.misc.Launcher$AppClassLoader@37b90b39 
